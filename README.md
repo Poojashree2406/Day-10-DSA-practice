@@ -1,4 +1,4 @@
-LeetCode Solutions
+LeetCode Solutions:
 
 | # | File Name               | LeetCode Problem         | Difficulty |
 | - | ----------------------- | ------------------------ | ---------- |

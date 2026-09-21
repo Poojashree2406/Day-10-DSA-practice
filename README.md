@@ -322,3 +322,14 @@ citations = [10,10,10]
 
 Expected Output:
 3
+
+
+Learning Objectives:
+Practice array traversal and manipulation.
+Understand backtracking and duplicate handling.
+Learn two-pointer techniques.
+Practice sorting-based solutions.
+Understand bucket-based algorithms.
+Apply binary search to sorted data.
+Analyze time and space complexity.
+Improve Java problem-solving skills through LeetCode practice.

@@ -1,1 +1,24 @@
+Test Case 1
+Input:
+nums = [0,1,2,4,5,7]
 
+Expected Output:
+["0->2","4->5","7"]
+Test Case 2
+Input:
+nums = [0,2,3,4,6,8,9]
+
+Expected Output:
+["0","2->4","6","8->9"]
+Test Case 3
+Input:
+nums = []
+
+Expected Output:
+[]
+Test Case 4
+Input:
+nums = [5]
+
+Expected Output:
+["5"]

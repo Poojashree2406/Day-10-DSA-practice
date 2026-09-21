@@ -285,3 +285,40 @@ Unlike LeetCode 274, the citations are already sorted, allowing a binary-search 
 
 Approach
 Use binary search.
+For index mid, calculate the number of papers having at least citations[mid] citations.
+If the number of papers is at least citations[mid], try to find a larger H-Index.
+Otherwise, search the other half.
+Return the maximum valid H-Index.
+Test Cases
+
+Test Case 1
+
+Input:
+citations = [0,1,3,5,6]
+
+Expected Output:
+3
+
+Test Case 2
+
+Input:
+citations = [1,2,100]
+
+Expected Output:
+2
+
+Test Case 3
+
+Input:
+citations = [0,0,0]
+
+Expected Output:
+0
+
+Test Case 4
+
+Input:
+citations = [10,10,10]
+
+Expected Output:
+3

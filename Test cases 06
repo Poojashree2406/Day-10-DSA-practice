@@ -1,1 +1,24 @@
+Test Case 1
+Input:
+nums = [3,6,9,1]
 
+Expected Output:
+3
+Test Case 2
+Input:
+nums = [10]
+
+Expected Output:
+0
+Test Case 3
+Input:
+nums = [1,10000000]
+
+Expected Output:
+9999999
+Test Case 4
+Input:
+nums = [1,1,1,1]
+
+Expected Output:
+0

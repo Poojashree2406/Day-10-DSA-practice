@@ -340,14 +340,17 @@ Improve Java problem-solving skills through LeetCode practice.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0140-word-break-ii) |
 ## String
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0140-word-break-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -356,4 +359,20 @@ Improve Java problem-solving skills through LeetCode practice.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0079-word-search) |
+## Hash Table
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0140-word-break-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->

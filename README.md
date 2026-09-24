@@ -342,6 +342,7 @@ Improve Java problem-solving skills through LeetCode practice.
 | [0073-set-matrix-zeroes](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0140-word-break-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0212-word-search-ii) |
 ## String
@@ -374,6 +375,7 @@ Improve Java problem-solving skills through LeetCode practice.
 | [0073-set-matrix-zeroes](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0140-word-break-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0140-word-break-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
@@ -405,12 +407,15 @@ Improve Java problem-solving skills through LeetCode practice.
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->

@@ -339,6 +339,7 @@ Improve Java problem-solving skills through LeetCode practice.
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0212-word-search-ii) |
@@ -363,11 +364,13 @@ Improve Java problem-solving skills through LeetCode practice.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0212-word-search-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0140-word-break-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poojashree2406/Day-10-DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
